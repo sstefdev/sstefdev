@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sstefdev" alt="sstefdev" /></a> </p>
 
-- 🔭 I’m currently working on [Catalyst/IOHK](https://projectcatalyst.org/)
-
 - 📫 How to reach me **sstefandev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
