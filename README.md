@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Stefan Stefanovic</h1>
 <h3 align="center">Full-Stack Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sstefdev&label=Profile%20views&color=0e75b6&style=flat" alt="sstefdev" /> </p>
-
 - 📫 How to reach me **sstefandev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
