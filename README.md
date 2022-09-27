@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hello there! Before talking about qualifications and professional abilities, I would like to introduce myself. Taking web development as a profession not only fulfills my pocket but also my heart because it has been my passion since my early teenage.<br><br>I'm an open-minded web developer and blockchain enthusiast who's ready for new challenges. I have spent most of my career in web development. <br><br>I believe that people should do things which they are good at or in which their hearts lays.</p>
+<p align="left">Hello there! Taking web development as a profession not only fulfills my pocket but also my heart because it has been my passion since my early teenage.<br><br>I'm an open-minded web developer and blockchain enthusiast who's ready for new challenges. I have spent most of my career in web development. <br><br>I believe that people should do things which they are good at or in which their hearts lays.</p>
 
 ###
 
