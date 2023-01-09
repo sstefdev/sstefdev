@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">Hello there! Taking web development as a profession not only fulfills my pocket but also my heart because it has been my passion since my early teenage.<br><br>I'm an open-minded web developer and blockchain enthusiast who's ready for new challenges. I have spent most of my career in web development. <br><br>I believe that people should do things which they are good at or in which their hearts lays.</p>
+<p align="left">Hello! I'm a web developer with a passion for creating functional and visually appealing websites, with a particular focus on backend development. I've been interested in the field since I was a teenager and have spent the majority of my career honing my skills and knowledge in both frontend and backend web development.
+ In addition to web development, I enjoy exploring the potential of blockchain and how it can be used to create more secure and transparent online systems. At the end of the day, I believe that we should all pursue careers that allow us to do what we love and where our hearts lie.</p>
 
 ###
 
