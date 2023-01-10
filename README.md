@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hello! I'm a web developer with a passion for creating functional and visually appealing websites, with a particular focus on backend development. I've been interested in the field since I was a teenager and have spent the majority of my career honing my skills and knowledge in both frontend and backend web development.
+<p align="left">Hello! I'm a web developer with a passion for creating functional and visually appealing websites, with a particular focus on backend development. I've been interested in the field since I was a teenager and have spent the majority of my career honing my skills and knowledge in both frontend and backend web development. <br />
  In addition to web development, I enjoy exploring the potential of blockchain and how it can be used to create more secure and transparent online systems. At the end of the day, I believe that we should all pursue careers that allow us to do what we love and where our hearts lie.</p>
 
 ###
