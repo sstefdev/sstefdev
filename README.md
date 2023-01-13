@@ -53,10 +53,3 @@ I firmly believe that pursuing a career in alignment with one's passions leads t
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
   </a>
 </div>
-
-###
-
-<h3 align="left">Git Stats</h3>
-
-###
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/sstefdev?cardType=github&theme=blueberry)](https://git.io/awesome-stats-card)
