@@ -58,5 +58,4 @@
 <h3 align="left">Git Stats</h3>
 
 ###
-
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/sstefdev)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/sstefdev?cardType=level&theme=blueberry)](https://git.io/awesome-stats-card)
