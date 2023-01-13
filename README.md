@@ -60,5 +60,5 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false&username=stefdev" height="150" alt="languages graph"  />
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/sstefdev)](https://git.io/awesome-stats-card)
 </div>
