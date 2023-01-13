@@ -2,9 +2,9 @@
 
 ###
 
-<p align="left">Hello! I'm a web developer with a passion for creating functional and visually appealing websites, with a particular focus on backend development. I've been interested in the field since I was a teenager and have spent the majority of my career honing my skills and knowledge in both frontend and backend web development.
- 
- In addition to web development, I enjoy exploring the potential of blockchain and how it can be used to create more secure and transparent online systems. At the end of the day, I believe that we should all pursue careers that allow us to do what we love and where our hearts lie.</p>
+<p align="left">As a professional software engineer with a strong passion for web development, my expertise lies in crafting functional and visually appealing websites and utilizing the latest web3 and blockchain technologies to deliver secure and transparent solutions. My focus on backend development and my dedication to staying up-to-date with industry trends has allowed me to hone my skills and expand my knowledge.
+
+I firmly believe that pursuing a career in alignment with one's passions leads to greater job satisfaction and ultimately a more fulfilling life. This philosophy drives my commitment to deliver exceptional results that exceed expectations and pushes me to continuously improve and innovate in my field.</p>
 
 ###
 
