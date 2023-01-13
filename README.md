@@ -59,4 +59,4 @@
 
 ###
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/brunobritodev)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/sstefdev)](https://git.io/awesome-stats-card)
