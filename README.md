@@ -59,4 +59,4 @@ I firmly believe that pursuing a career in alignment with one's passions leads t
 <h3 align="left">Git Stats</h3>
 
 ###
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/sstefdev?cardType=level&theme=blueberry)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/sstefdev?cardType=github&theme=blueberry)](https://git.io/awesome-stats-card)
