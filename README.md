@@ -8,7 +8,7 @@ I firmly believe that pursuing a career in alignment with one's passions leads t
 
 ###
 
-<h3 align="left">Skills</h3>
+<h3 align="left">Languages and Technologies</h3>
 
 ###
 
