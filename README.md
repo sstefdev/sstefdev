@@ -56,6 +56,3 @@ What I find most fascinating about web development is the way it allows me to bl
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
   </a>
 </div>
-
-![Profile views](https://gpvc.arturio.dev/sstefdev)
-
