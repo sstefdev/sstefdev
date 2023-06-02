@@ -2,9 +2,7 @@
 
 ###
 
-<p align="left">I am a software engineer with a strong passion for web development. I specialize in creating functional and visually stunning websites using the latest Web3 and blockchain technologies to deliver secure and transparent solutions. My focus is on backend development, and I stay up-to-date with the latest industry trends to continuously improve my skills and knowledge.
-
-What I find most fascinating about web development is the way it allows me to blend creativity and problem-solving to create something truly remarkable. I believe that the best web development projects are those that seamlessly merges functionality with aesthetics, resulting in a truly engaging user experience. This belief drives my commitment to deliver exceptional results that not only meet but exceed expectations, as well as spurs me to continuously push the boundaries of what's possible in the world of web development.</p>
+<p align="left">Hi, I am a passionate web developer specializing in backend development with expertise in Web3 and blockchain technologies. Committed to creating functional, visually stunning websites that merge functionality with aesthetics. Continuously improving skills to deliver exceptional results and push the boundaries of web development.</p>
 
 ###
 
