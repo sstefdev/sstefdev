@@ -2,6 +2,9 @@
 
 ###
 
+![Profile View Counter](https://komarev.com/ghpvc/?username=Tanu-N-Prabhu)
+
+
 <p align="left">Hi, I am a passionate web developer specializing in backend development with expertise in Web3 and blockchain technologies. Committed to creating functional, visually stunning websites that merge functionality with aesthetics. Continuously improving skills to deliver exceptional results and push the boundaries of web development.</p>
 
 ###
