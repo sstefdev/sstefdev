@@ -1,5 +1,3 @@
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-sstefdev&style=flat-square)
-
 <h3 align="left">About me</h3>
 
 ###
