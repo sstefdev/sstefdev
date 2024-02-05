@@ -58,6 +58,3 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
   </a>
 </div>
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sstefdev)](https://github.com/ryo-ma/github-profile-trophy)
