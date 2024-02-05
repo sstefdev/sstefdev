@@ -58,12 +58,3 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
   </a>
 </div>
-
-
-###
-
-<h3 align="left">Experience</h3>
-
-###
-
-<img src="https://github-readme-linkedin-murex.vercel.app/experience?username=sstefandev" />
