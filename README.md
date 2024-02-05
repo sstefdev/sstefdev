@@ -1,4 +1,4 @@
-[![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)](https://visitor-badge.glitch.me/badge?page_id=sstefdev.visitor-badge)
+[![visitors](https://visitor-badge.glitch.me/badge?page_id=sstefdev&left_color=green&right_color=red)]
 
 <h3 align="left">About me</h3>
 
