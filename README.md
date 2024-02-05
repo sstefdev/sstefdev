@@ -3,7 +3,7 @@
 ###
 
 
-<p align="left">Hi, I am a passionate web developer specializing in backend development with expertise in Web3 and blockchain technologies. Committed to creating functional, visually stunning websites that merge functionality with aesthetics. Continuously improving skills to deliver exceptional results and push the boundaries of web development.</p>
+<p align="left">Greetings! I'm a dedicated web developer with a strong emphasis on full-stack development, specializing in Web3 and blockchain technologies. My expertise lies in creating dynamic websites that seamlessly integrate functionality and aesthetics, delivering not only visually stunning interfaces but also robust and efficient backend systems. Committed to staying at the forefront of web development, I continually enhance my skills to provide exceptional results. With a passion for innovation and a comprehensive understanding of both frontend and backend technologies, I'm here to elevate your digital projects to new heights. Let's collaborate and transform your ideas into impactful online experiences!</p>
 
 ###
 
