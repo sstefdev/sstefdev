@@ -1,3 +1,5 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sstefdev)](https://github.com/anuraghazra/github-readme-stats)
+
 <h3 align="left">About me</h3>
 
 ###
